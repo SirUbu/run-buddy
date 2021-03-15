@@ -5,7 +5,7 @@ This is an example of the basics I've learned in front-end web development throu
 Recent updates include concepts with mobile responsiveness, flexbot, CSS grid, and more advanced CSS elements.
 
 ## Screenshots ##
-![Page Screenshot](./assets/images/Screenshot.PNG)
+![Page Screenshot](./assets/images/Screenshot.png)
 
 ## Link ##
 https://sirubu.github.io/run-buddy/
